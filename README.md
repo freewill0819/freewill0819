@@ -1,6 +1,7 @@
 <div align:"center">
  👋 안녕하세요.신입 백엔드 개발자 김선호입니다.
-	Email:freewill0819@gmail.com
+ <br>
+	Email: freewill0819@gmail.com
 	
 </div>
 	
