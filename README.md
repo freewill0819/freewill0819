@@ -1,13 +1,12 @@
-- 👋 안녕하세요.신입 백엔드 개발자 김선호입니다.
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 
 
 <div align="center">
+	
+	 👋 안녕하세요.신입 백엔드 개발자 김선호입니다.
+	
+
+
+	Email:freewill0819@gmail.com
 	<h1> 사용 기술</h1>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
